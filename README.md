@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zacharyrothdotonline
-- 👀 I’m interested in Python, Solidity, Rust, and computing in general
+- 👀 I’m interested in Python, Solidity, Rust, and general computing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DeFi development
 - 📫 How to reach me: email hello@zacharyroth.online or Twitter @zachary_solrise
